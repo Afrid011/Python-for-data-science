@@ -1,4 +1,5 @@
 
+
 # python
 
 Python, a beginner-friendly language, reads like English. Powerful for web apps, data, and more, it has vast libraries for easy coding.
@@ -20,10 +21,10 @@ Classes & Objects: Building blocks for object-oriented programming. Classes defi
 These are just a few core concepts. Remember, each concept has its own depth, and resources are available to explore them further!
 
 
-## Related
+## Acknowledgements
 
-Here are some related codes
-
-[-click Here](https://github.com/Afrid011/Python-for-data-science)
+ - [w3schools](https://www.w3schools.com/python/default.asp)
+ - [geeksforgeeks](https://www.geeksforgeeks.org/introduction-to-python/?ref=lbp)
+ 
 
 
